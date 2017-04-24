@@ -1,7 +1,7 @@
 {
   "name": "literature-map",
   "version": "0.1.0",
-  "homepage": "https://literature-map.github.io/",
+  "homepage": "https://mazzur.github.io/test/",
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
